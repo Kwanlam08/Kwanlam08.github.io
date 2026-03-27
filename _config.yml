@@ -5,7 +5,7 @@ remote_theme: jekyll/minima
 
 # 如果使用自定義域名，baseurl 必須保持為空 ""
 baseurl: "" 
-url: "https://你的域名.com"
+url: "https://kwanlam.cc"
 
 plugins:
   - jekyll-remote-theme
