@@ -1,0 +1,19 @@
+title: "KwanLam's Muse"
+author: "KwanLam"
+description: "極簡主義者的音樂與數位生活"
+remote_theme: jekyll/minima
+
+# 如果使用自定義域名，baseurl 必須保持為空 ""
+baseurl: "" 
+url: "https://你的域名.com"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Minima 主題的簡約設置
+minima:
+  skin: light # 可選 light 或 dark
+  social_links:
+    github: kwanlam08
